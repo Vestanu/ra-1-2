@@ -1,6 +1,5 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import TitleModel from '../models/ItemModel';
 import ItemModel from '../models/ItemModel';
 
 
