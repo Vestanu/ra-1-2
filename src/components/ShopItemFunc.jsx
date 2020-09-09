@@ -4,9 +4,7 @@ import ItemModel from '../models/ItemModel';
 
 
 export default class ShopItemFunc extends React.Component {
-    constructor(props) {
-        super(props);
-    }
+
     render() {
         const { item } = this.props;
         return <div className="main-content">
